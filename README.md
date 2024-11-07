@@ -5,3 +5,7 @@
 # py-practical 2
 
 ![image alt](https://github.com/Suhanjuneja/py-practiical/blob/e746cd3f14936fbe5e33b698e69529a9573388b2/Screenshot%20(153).png)
+
+# py-practical 3
+
+![image alt](https://github.com/Suhanjuneja/py-practiical/blob/d9706c0255c132d86aaf4d051a93fc4ae31a7b5d/Screenshot%20(154).png)
