@@ -17,3 +17,7 @@
 # py-practical-5
 
 ![image alt](https://github.com/Suhanjuneja/py-practiical/blob/f9484b9d4bbec660a1964b98c89ff312cde17cf1/Screenshot%20(156).png)
+
+# py-prac-6
+
+![image alt](https://github.com/Suhanjuneja/py-practiical/blob/15195e4c6fb564223b7caddf1edc50aa2b2236db/Screenshot%20(157).png)
