@@ -12,4 +12,4 @@
 
 # py-practical 4
 
-#[image alt](https://github.com/Suhanjuneja/py-practiical/blob/6e469b7fcbbd43a74c4098911a126b63b95f4a74/Screenshot%20(155).png)
+![image alt](https://github.com/Suhanjuneja/py-practiical/blob/6e469b7fcbbd43a74c4098911a126b63b95f4a74/Screenshot%20(155).png)
